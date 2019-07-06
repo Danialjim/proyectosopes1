@@ -1,0 +1,12 @@
+usr=dani&nombre=Daniel Alonzo&texto=feliz en el #bernabeu
+usr=carlos&nombre=Carlos Alonzo&texto=Hola #mundo
+usr=perl&nombre=Perla martinez&texto=me gusta el #cine
+usr=dani&nombre=Daniel Alonzo&texto=feliz en el #bernabeu
+usr=dani&nombre=Daniel Alonzo&texto=feliz en el #bernabeu
+usr=dani&nombre=Daniel Alonzo&texto=feliz en el #bernabeu
+usr=carlos&nombre=Carlos Alonzo&texto=Hola #mundo
+usr=carlos&nombre=Carlos Alonzo&texto=Hola #mundo
+usr=perl&nombre=Perla martinez&texto=me gusta el #cine
+usr=cr7&nombre=Cris martinez&texto=me gusta el #futbol
+usr=cr7&nombre=Cris martinez&texto=me gusta el #futbol5
+usr=cr77&nombre=Cris martinez&texto=me gusta el #futbol8888
